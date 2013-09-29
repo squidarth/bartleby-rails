@@ -1,3 +1,3 @@
 ## Bartleby-Rails
 
-### This is a Rails app with example usage of http://github.com/squidarth/bartleby
+ This is a Rails app with example usage of [Bartleby](http://github.com/squidarth/bartleby)
